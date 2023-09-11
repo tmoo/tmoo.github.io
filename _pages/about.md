@@ -18,10 +18,8 @@ News
     - _Argumentative Reasoning in ASPIC+ under Incomplete Information_ 
     - _Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Size and Complexity_ 
 - [September 2023] An invited paper at Arg&App workshop @ KR'23: _Design of ICCMA 2023, 5th International Competition on Computational Models of Argumentation: A Preliminary Report_
-- [June 2023] I defended by PhD thesis [_Computational Approaches to Reasoning in Structured Argumentation_](https://hdl.handle.net/10138/358340)
-    - [Henry Prakken](https://webspace.science.uu.nl/~prakk101/) was the opponent, and [Francesca Toni](https://www.imperial.ac.uk/people/f.toni) and [Mario Alviano](https://www.alviano.com/) the pre-examiners
-    - The thesis was accepted with distinction
-- [2023] I am organizing the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/) together with [Matti Järvisalo](https://www.cs.helsinki.fi/u/mjarvisa/) and [Andreas Niskanen](https://www.cs.helsinki.fi/u/andreasn/)
+- [June 2023] I defended by PhD thesis [_Computational Approaches to Reasoning in Structured Argumentation_](https://hdl.handle.net/10138/358340) with [Henry Prakken](https://webspace.science.uu.nl/~prakk101/) as the opponent. The thesis was accepted with distinction.
+- [2023] I am organizing the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/) together with [Matti Järvisalo](https://www.cs.helsinki.fi/u/mjarvisa/) and [Andreas Niskanen](https://www.cs.helsinki.fi/u/andreasn/).
 
 Previously
 =====
