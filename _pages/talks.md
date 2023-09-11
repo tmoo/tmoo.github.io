@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Scientific presentation"
+title: "Scientific presentations"
 author_profile: true
 ---
 
