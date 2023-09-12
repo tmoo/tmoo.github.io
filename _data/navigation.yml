@@ -2,10 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Software"
+    url: /software/    
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
