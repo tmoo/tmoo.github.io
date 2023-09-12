@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher in computer science at University of Helsinki in the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization).
 In my research I tackle computationally hard combinatorial search and optimization problems with declarative methods.
-My doctoral research focused on solving reasoning problems of computational argumentation by encoding them into Boolean satisfiability (SAT) and answer set programs (ASP).
+My doctoral research focused on encoding reasoning with computational argumentation into Boolean satisfiability (SAT) and answer set programs (ASP) and using state-of-the-art solvers.
 
 News
 ======
