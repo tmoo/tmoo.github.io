@@ -22,10 +22,6 @@ Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Siz
 :   Tuomo Lehtonen, Anna Rapberger, Markus Ulbricht, Johannes Peter Wallner (KR 2023)
 [LINK](https://proceedings.kr.org/2023/43/)
 
-Design of ICCMA 2023, 5th International Competition on Computational Models of Argumentation: A Preliminary Report
-:   Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen (Arg&App@KR 2023)
-[LINK](https://tuhat.helsinki.fi/ws/portalfiles/portal/270662732/paper.pdf)
-
 Algorithms for Reasoning in a Default Logic Instantiation of Assumption-Based Argumentation
 :   Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (COMMA 2022)
 [LINK](Algorithms for Reasoning in a Default Logic Instantiation of Assumption-Based Argumentation)
@@ -49,6 +45,15 @@ SAT-Based Approaches to Adjusting, Repairing, and Computing Largest Extensions o
 From Structured to Abstract Argumentation: Assumption-Based Acceptance via AF Reasoning
 :   Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (ECSQARU 2017)
 [LINK](https://doi.org/10.1007/978-3-319-61581-3_6)
+
+## <u>Other (not peer reviewed)</u>
+Design of ICCMA 2023, 5th International Competition on Computational Models of Argumentation: A Preliminary Report
+:   Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen (Invited paper at Arg&App@KR 2023)
+[LINK](https://tuhat.helsinki.fi/ws/portalfiles/portal/270662732/paper.pdf)
+
+Solver and Benchmark Descriptions of ICCMA 2023: 5th International Competition on Computational Models of Argumentation
+:   Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen, editors (University of Helsinki Department of Computer Science Series of Publications B, 2023)
+[LINK](https://researchportal.helsinki.fi/files/274853796/iccma23proc.pdf)
 
 ## <u>Theses</u>
 Computational Approaches to Reasoning in Structured Argumentation
