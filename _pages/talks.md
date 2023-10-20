@@ -12,4 +12,4 @@ author_profile: true
 - An Answer Set Programming Approach to Argumentative Reasoning in the ASPIC+ Framework @ KR'20, online
 - Reasoning over Assumption-Based Argumentation Frameworks via Direct Answer Set Programming Encodings @ AAAI'19, Honolulu, USA
     - Included both a talk and a poster presentation
-- SAT-Based Approaches to Adjusting, Repairing, and Computing Largest Extensions of Argumentation Frameworks @ COMMA'18, Warsaw, Polan
+- SAT-Based Approaches to Adjusting, Repairing, and Computing Largest Extensions of Argumentation Frameworks @ COMMA'18, Warsaw, Poland
