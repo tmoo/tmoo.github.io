@@ -15,7 +15,7 @@ My doctoral research focused on efficient reasoning tools for computational argu
 News
 ======
 - [August 2024] A paper accepted at IJCAI'24: _Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation_
-- [March 2024] I started as a postdoc at Aalto University under the supervision of Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/), [funded by HIIT](https://www.hiit.fi/about/funded-researchers/)
+- [March 2024] I started as a postdoc at Aalto University under the supervision of Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/). The position is [funded by the Helsinki Institute for Information Techonology](https://www.hiit.fi/about/funded-researchers/).
 - [September 2023] Two papers accepted at KR'23
     - _Argumentative Reasoning in ASPIC+ under Incomplete Information_ 
     - _Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Size and Complexity_ 
