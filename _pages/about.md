@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in computer science at University of Helsinki in the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization).
-In my research I tackle computationally hard combinatorial search and optimization problems with declarative methods.
-My doctoral research focused on encoding reasoning with computational argumentation into Boolean satisfiability (SAT) and answer set programs (ASP) and using state-of-the-art solvers.
+I am a postdoctoral researcher (funded by [HIIT](https://www.hiit.fi/)) in computer science at Aalto University  under the supervision of Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/), and also affiliated with the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) at University of Helsinki.
+My research interests include artificial intelligence, knowledge representation and reasoning, constraint solving, computational argumentation, and computationally hard combinatorial search and optimization problems.
+My doctoral research focused on efficient reasoning tools for computational argumentation via Boolean satisfiability (SAT) and answer set programming (ASP).
 
 News
 ======
+- [August 2024] A paper accepted at IJCAI'24: _Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation_
+- [March 2024] I started as a postdoc at Aalto University under the supervision of Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/), [funded by HIIT](https://www.hiit.fi/about/funded-researchers/)
 - [September 2023] Two papers accepted at KR'23
     - _Argumentative Reasoning in ASPIC+ under Incomplete Information_ 
     - _Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Size and Complexity_ 
