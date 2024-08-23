@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher (funded by [HIIT](https://www.hiit.fi/)) in computer science at Aalto University, with Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/), and also affiliated with the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) at University of Helsinki.
+I am a postdoctoral researcher funded by [HIIT](https://www.hiit.fi/) in computer science at Aalto University, with Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/), and also affiliated with the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) at University of Helsinki.
 My research interests include artificial intelligence, knowledge representation and reasoning, constraint solving, computational argumentation, and computationally hard combinatorial search and optimization problems.
 
 My doctoral research focused on efficient reasoning tools for computational argumentation via Boolean satisfiability (SAT) and answer set programming (ASP).
@@ -29,7 +29,7 @@ Recent/selected papers
 Activities
 =====
 - Co-organizer of the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/)
-- PC member: [KR 2024](https://kr.org/KR2024/), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
+- PC member: [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
 - Reviewer: [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
 - Local organizer: [FoIKS 2022](https://foiks2022.github.io/)
 
