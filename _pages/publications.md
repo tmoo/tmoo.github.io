@@ -14,6 +14,19 @@ Declarative Algorithms and Complexity Results for Assumption-Based Argumentation
 [LINK](https://doi.org/10.1613/jair.1.12479)
 
 ## <u>Conference papers</u>
+Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+ 
+:   Daphne Odekerken, Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (KR 2024)
+
+SAT-Based Approaches to Reasoning in Choice Logics
+:   Tuomo Lehtonen, Andreas Niskanen Matti Järvisalo (ECAI 2024)
+
+On Computing Admissibility in ABA
+:   Tuomo Lehtonen, Anna Rapberger, Francesca Toni, Markus Ulbricht, Johannes Peter Wallner (COMMA 2024)
+
+Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation
+:   Tuomo Lehtonen, Anna Rapberger, Francesca Toni, Markus Ulbricht, Johannes Peter Wallner (IJCAI 2024)
+[LINK](https://www.ijcai.org/proceedings/2024/383)
+
 Argumentative Reasoning in ASPIC+ under Incomplete Information
 :   Daphne Odekerken, Tuomo Lehtonen, AnneMarie Borg, Johannes Peter Wallner, Matti Järvisalo (KR 2023)
 [LINK](https://proceedings.kr.org/2023/52/)
