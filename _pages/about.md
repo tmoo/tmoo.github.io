@@ -31,6 +31,7 @@ Activities
 - Co-organizer of the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/)
 - PC member: [KR 2024](https://kr.org/KR2024/), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
 - Reviewer: [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
+- Local organizer: [FoIKS 2022](https://foiks2022.github.io/)
 
 Previously
 =====
