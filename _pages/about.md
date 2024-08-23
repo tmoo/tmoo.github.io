@@ -36,7 +36,7 @@ Activities
 Previously
 =====
 - In 2020, I started my doctoral studies in the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) at University of Helsinki, with [full four-year funding from the university](https://fcai.fi/news/2020/2/28/new-doctoral-students-starting-work-on-multidisciplinary-applications-of-ai). My supervisors were [Matti Järvisalo](https://www.cs.helsinki.fi/u/mjarvisa/) and [Johannes P. Wallner](https://wallner.ist.tugraz.at/).
-- I obtained my master's degree from University of Helsinki in 2019 and my bachelor's degree In 2018.
+- I obtained my master's degree from University of Helsinki in 2019 and bachelor's degree in 2018.
 
 
 
