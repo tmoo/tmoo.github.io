@@ -16,12 +16,12 @@ I defended my PhD thesis [_Computational Approaches to Reasoning in Structured A
 
 Recent/selected papers
 ======
-- KR'24: _Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+_ with Daphne Odekerken, Johannes Peter Wallner and Matti Järvisalo 
+- KR'24: _Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+_ with Daphne Odekerken, Johannes P. Wallner and Matti Järvisalo 
 - ECAI'24: _SAT-Based Approaches to Reasoning in Choice Logics_ with Andreas Niskanen and Matti Järvisalo
 - COMMA'24: _On Computing Admissibility in ABA_ with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
 - IJCAI'24: [_Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation_](https://www.ijcai.org/proceedings/2024/383) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
 - KR'23:
-    - [_Argumentative Reasoning in ASPIC+ under Incomplete Information_](https://proceedings.kr.org/2023/52/) with Daphne Odekerken, AnneMarie Borg, Johannes P Wallner, Matti Järvisalo
+    - [_Argumentative Reasoning in ASPIC+ under Incomplete Information_](https://proceedings.kr.org/2023/52/) with Daphne Odekerken, AnneMarie Borg, Johannes P. Wallner, Matti Järvisalo
     - [_Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Size and Complexity_](https://proceedings.kr.org/2023/43/) with Anna Rapberger, Markus Ulbricht and Johannes P. Wallner
 - Arg&App @ KR'23 (invited paper): _Design of ICCMA 2023, 5th International Competition on Computational Models of Argumentation: A Preliminary Report_ with Andreas Niskanen and Matti Järvisalo
 - JAIR (2021): [_Declarative Algorithms and Complexity Results for Assumption-Based Argumentation_](https://www.jair.org/index.php/jair/article/view/12479) with Johannes P. Wallner and Matti Järvisalo 
