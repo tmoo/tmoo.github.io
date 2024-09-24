@@ -22,6 +22,7 @@ SAT-Based Approaches to Reasoning in Choice Logics
 
 On Computing Admissibility in ABA
 :   Tuomo Lehtonen, Anna Rapberger, Francesca Toni, Markus Ulbricht, Johannes Peter Wallner (COMMA 2024)
+[LINK](https://ebooks.iospress.nl/volumearticle/69215)
 
 Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation
 :   Tuomo Lehtonen, Anna Rapberger, Francesca Toni, Markus Ulbricht, Johannes Peter Wallner (IJCAI 2024)
