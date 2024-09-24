@@ -6,7 +6,7 @@ author_profile: true
 
 ## <u>Journal articles</u>
 Harnessing Incremental Answer Set Solving for Reasoning in Assumption-Based Argumentation
-:   Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (Theory and Practice of Logic Programming, 2021)
+:Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (Theory and Practice of Logic Programming, 2021)
 [LINK](https://doi.org/10.1017/S1471068421000296)
 
 Declarative Algorithms and Complexity Results for Assumption-Based Argumentation
