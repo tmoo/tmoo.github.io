@@ -32,6 +32,7 @@ Activities
 - PC member: [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
 - Reviewer: [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
 - Local organizer: [FoIKS 2022](https://foiks2022.github.io/)
+- Subreviewer: [SAFA 2022](http://safa2022.argumentationcompetition.org/)
 
 Previously
 =====
