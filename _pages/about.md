@@ -16,21 +16,20 @@ I defended my PhD thesis [_Computational Approaches to Reasoning in Structured A
 
 Recent/selected papers
 ======
-- KR'24: _Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+_ with Daphne Odekerken, Johannes P. Wallner and Matti Järvisalo 
-- ECAI'24: _SAT-Based Approaches to Reasoning in Choice Logics_ with Andreas Niskanen and Matti Järvisalo
-- COMMA'24: [_On Computing Admissibility in ABA_](https://ebooks.iospress.nl/volumearticle/69215) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
-- IJCAI'24: [_Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation_](https://www.ijcai.org/proceedings/2024/383) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
-- KR'23:
+- KR 2024: [_Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+_](https://doi.org/10.24963/kr.2024/49) with Daphne Odekerken, Johannes P. Wallner and Matti Järvisalo 
+- ECAI 2024: [_SAT-Based Approaches to Reasoning in Choice Logics_](https://doi.org/10.3233/FAIA241001) with Andreas Niskanen and Matti Järvisalo
+- COMMA 2024: [_On Computing Admissibility in ABA_](https://ebooks.iospress.nl/volumearticle/69215) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
+- IJCAI 2024: [_Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation_](https://www.ijcai.org/proceedings/2024/383) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
+- KR 2023:
     - [_Argumentative Reasoning in ASPIC+ under Incomplete Information_](https://proceedings.kr.org/2023/52/) with Daphne Odekerken, AnneMarie Borg, Johannes P. Wallner and Matti Järvisalo
     - [_Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Size and Complexity_](https://proceedings.kr.org/2023/43/) with Anna Rapberger, Markus Ulbricht and Johannes P. Wallner
-- Arg&App @ KR'23 (invited paper): _Design of ICCMA 2023, 5th International Competition on Computational Models of Argumentation: A Preliminary Report_ with Andreas Niskanen and Matti Järvisalo
 - JAIR (2021): [_Declarative Algorithms and Complexity Results for Assumption-Based Argumentation_](https://www.jair.org/index.php/jair/article/view/12479) with Johannes P. Wallner and Matti Järvisalo 
 
 Activities
 =====
-- Co-organizer of the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/)
-- PC member: [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
+- PC member: [ECAI 2025](https://ecai2025.org/), [IJCAI 2025](https://2025.ijcai.org/), [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
 - Reviewer: [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
+- Co-organizer of the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/)
 - Local organizer: [FoIKS 2022](https://foiks2022.github.io/)
 - Subreviewer: [SAFA 2022](http://safa2022.argumentationcompetition.org/)
 
