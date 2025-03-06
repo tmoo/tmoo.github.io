@@ -75,7 +75,7 @@ Solver and Benchmark Descriptions of ICCMA 2023: 5th International Competition o
 :   Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen, editors (University of Helsinki Department of Computer Science Series of Publications B, 2023)
 [LINK](https://researchportal.helsinki.fi/files/274853796/iccma23proc.pdf)
 
-## <u>Theses</u>
+### <u>PhD thesis</u>
 Computational Approaches to Reasoning in Structured Argumentation
 :   PhD thesis from University of Helsinki, Finland, 2023
 [LINK](https://hdl.handle.net/10138/358340)
