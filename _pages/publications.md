@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## <u>Journal articles</u>
+ICCMA 2023: 5th International Competition on Computational Models of Argumentation
+: Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen (Artificial Intelligence, 2025)
+[LINK](https://www.sciencedirect.com/science/article/pii/S000437022500030X)
+
 Harnessing Incremental Answer Set Solving for Reasoning in Assumption-Based Argumentation
 : Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (Theory and Practice of Logic Programming, 2021)
 [LINK](https://doi.org/10.1017/S1471068421000296)
