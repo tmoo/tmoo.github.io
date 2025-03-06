@@ -77,5 +77,5 @@ Solver and Benchmark Descriptions of ICCMA 2023: 5th International Competition o
 
 ### <u>PhD thesis</u>
 Computational Approaches to Reasoning in Structured Argumentation
-:   PhD thesis from University of Helsinki, Finland, 2023
+:   Department of Computer Science, University of Helsinki, Finland, 2023
 [LINK](https://hdl.handle.net/10138/358340)
