@@ -14,6 +14,7 @@ author_profile: true
 
 ## <u>Supervision</u>
 - Instructor for PhD student Xia Zong at Aalto University (2025-)
+- Instructor for an MSc thesis in SAT-based procedural content generation at Aalto University, fall 2025
 - Supervisor for two MSc theses in explainable AI, fall 2024 and spring 2025, Aalto University
 - Supervisor for five BSc theses with AI topics at Aalto University, fall 2024 and spring 2025
 - Supervisor for five BSc theses with algorithmic topics, spring 2023
