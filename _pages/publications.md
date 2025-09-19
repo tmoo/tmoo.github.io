@@ -6,8 +6,8 @@ author_profile: true
 
 ## <u>Journal articles</u>
 Argumentative reasoning in ASPIC+ under incomplete information
-Daphne Odekerken, Tuomo Lehtonen, Johannes Peter Wallner Matti Järvisalo (Journal of Artificial Intelligence Research, 2025)
-[LINK](https://www.jair.org/index.php/jair/article/view/18404) 
+: Daphne Odekerken, Tuomo Lehtonen, Johannes Peter Wallner Matti Järvisalo (Journal of Artificial Intelligence Research, 2025)
+: [LINK](https://www.jair.org/index.php/jair/article/view/18404) 
 
 ICCMA 2023: 5th International Competition on Computational Models of Argumentation
 : Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen (Artificial Intelligence, 2025)

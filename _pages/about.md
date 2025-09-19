@@ -16,7 +16,7 @@ I defended my PhD thesis [_Computational Approaches to Reasoning in Structured A
 
 Recent/selected papers
 ======
-- KR 2025: [_Reasoning in Assumption-Based Argumentation via SAT_] with Andreas Niskanen, Masood Feyzbakhsh Rankooh and Matti Järvisalo
+- KR 2025: [_Reasoning in Assumption-Based Argumentation via SAT_]() with Andreas Niskanen, Masood Feyzbakhsh Rankooh and Matti Järvisalo
 - ECAI 2025: [_Optimal Counterfactual Explanations for Random Forests with MaxSAT_]() with Alesya Raevskaya
 - JAIR (2025): [_Argumentative reasoning in ASPIC+ under incomplete information_](https://www.jair.org/index.php/jair/article/view/18404) with Daphne Odekerken, Johannes P. Wallner and Matti Järvisalo
 - AIJ (2025): [_ICCMA 2023: 5th International Competition on Computational Models of Argumentation_](https://www.sciencedirect.com/science/article/pii/S000437022500030X) with Matti Järvisalo and Andreas Niskanen
