@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## <u>Journal articles</u>
+Argumentative reasoning in ASPIC+ under incomplete information
+Daphne Odekerken, Tuomo Lehtonen, Johannes Peter Wallner Matti Järvisalo (Journal of Artificial Intelligence Research, 2025)
+[LINK](https://www.jair.org/index.php/jair/article/view/18404) 
+
 ICCMA 2023: 5th International Competition on Computational Models of Argumentation
 : Matti Järvisalo, Tuomo Lehtonen, Andreas Niskanen (Artificial Intelligence, 2025)
 [LINK](https://www.sciencedirect.com/science/article/pii/S000437022500030X)
@@ -18,6 +22,12 @@ Declarative Algorithms and Complexity Results for Assumption-Based Argumentation
 [LINK](https://doi.org/10.1613/jair.1.12479)
 
 ## <u>Conference papers</u>
+Reasoning in Assumption-Based Argumentation via SAT
+: Andreas Niskanen, Masood Feyzbakhsh Rankooh, Tuomo Lehtonen, Matti Järvisalo (KR 2025)
+
+Optimal Counterfactual Explanations for Random Forests with MaxSAT
+: Alesya Raevskaya, Tuomo Lehtonen (ECAI 2025)
+
 Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+ 
 :   Daphne Odekerken, Tuomo Lehtonen, Johannes Peter Wallner, Matti Järvisalo (KR 2024)
 [LINK](https://doi.org/10.24963/kr.2024/49)
