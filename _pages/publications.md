@@ -24,7 +24,7 @@ Declarative Algorithms and Complexity Results for Assumption-Based Argumentation
 ## <u>Conference papers</u>
 Reasoning in Assumption-Based Argumentation via SAT
 : Andreas Niskanen, Masood Feyzbakhsh Rankooh, Tuomo Lehtonen, Matti Järvisalo
-: KR 2025
+: KR 2025. [LINK](https://proceedings.kr.org/2025/68/)
 
 Optimal Counterfactual Explanations for Random Forests with MaxSAT
 : Alesya Raevskaya, Tuomo Lehtonen 
