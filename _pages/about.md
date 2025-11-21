@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher funded by [HIIT](https://www.hiit.fi/) in computer science at Aalto University, with Professor [Jussi Rintanen](https://users.aalto.fi/~rintanj1/), and also affiliated with the [Constraint Reasoning and Optimization group](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) at University of Helsinki.
-My research interests include artificial intelligence, knowledge representation and reasoning, constraint solving, computational argumentation, and computationally hard combinatorial search and optimization problems.
+My research interests include computational argumentation, knowledge representation and reasoning, artificial intelligence, constraint solving, and computationally hard combinatorial search and optimization problems.
 
 My doctoral research focused on efficient reasoning tools for computational argumentation via Boolean satisfiability (SAT) and answer set programming (ASP).
 I defended my PhD thesis [_Computational Approaches to Reasoning in Structured Argumentation_](https://hdl.handle.net/10138/358340) in June 2023 with [Henry Prakken](https://webspace.science.uu.nl/~prakk101/) as the opponent. The thesis was accepted with distinction.
 
-Recent/selected papers
+News
 ======
+- I received the *KR Early Career Award 2025*!
 - KR 2025: [_Reasoning in Assumption-Based Argumentation via SAT_](https://proceedings.kr.org/2025/68/) with Andreas Niskanen, Masood Feyzbakhsh Rankooh and Matti Järvisalo
 - ECAI 2025: [_Optimal Counterfactual Explanations for Random Forests with MaxSAT_]() with Alesya Raevskaya
 - JAIR (2025): [_Argumentative reasoning in ASPIC+ under incomplete information_](https://www.jair.org/index.php/jair/article/view/18404) with Daphne Odekerken, Johannes P. Wallner and Matti Järvisalo
@@ -24,14 +25,10 @@ Recent/selected papers
 - ECAI 2024: [_SAT-Based Approaches to Reasoning in Choice Logics_](https://doi.org/10.3233/FAIA241001) with Andreas Niskanen and Matti Järvisalo
 - COMMA 2024: [_On Computing Admissibility in ABA_](https://ebooks.iospress.nl/volumearticle/69215) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
 - IJCAI 2024: [_Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation_](https://www.ijcai.org/proceedings/2024/383) with Anna Rapberger, Francesca Toni, Markus Ulbricht and Johannes P. Wallner
-- KR 2023:
-    - [_Argumentative Reasoning in ASPIC+ under Incomplete Information_](https://proceedings.kr.org/2023/52/) with Daphne Odekerken, AnneMarie Borg, Johannes P. Wallner and Matti Järvisalo
-    - [_Argumentation Frameworks Induced by Assumption-based Argumentation: Relating Size and Complexity_](https://proceedings.kr.org/2023/43/) with Anna Rapberger, Markus Ulbricht and Johannes P. Wallner
-- JAIR (2021): [_Declarative Algorithms and Complexity Results for Assumption-Based Argumentation_](https://www.jair.org/index.php/jair/article/view/12479) with Johannes P. Wallner and Matti Järvisalo 
 
 Activities
 =====
-- PC member: [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/), [IJCAI 2025](https://2025.ijcai.org/), [ECAI 2025](https://ecai2025.org/), [KR 2025](https://kr.org/KR2025/call_kr_in_the_wild.html) (in the Wild Track), [NMR 2025](https://nmr.krportal.org/2025/), [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
+- PC member: NMR [2026](https://nmr.krportal.org/2026/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/), [IJCAI 2025](https://2025.ijcai.org/), [ECAI 2025](https://ecai2025.org/), [KR 2025](https://kr.org/KR2025/call_kr_in_the_wild.html) (in the Wild Track), NMR [2025](https://nmr.krportal.org/2025/), [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
 - Reviewer: [JAIR](https://jair.org), [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
 - Co-organizer of the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/)
 - Local organizer: [FoIKS 2022](https://foiks2022.github.io/)
