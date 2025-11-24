@@ -8,7 +8,7 @@ collection: software
 
 ASPforABA implements reasoning in the structured argumentation formalism of assumption-based argumentation (ABA) by making use of anwer set programming (ASP) solving techniques. The approach, as detailed in [1,2], covers various central argumentation semantics and different reasoning modes through either direct ASP encodings or counterexample-guided abstraction refinement algorithms that make use of incremental ASP solving.
 
-ASPforABA is the state-of-the-art system (as of 2023) for acceptance problems and finding extensions in ABA. It placed first in all ABA subtracks in [ICCMA 2023](https://iccma2023.github.io/) (the 5th International Competition on Computational Models of Argumentation).
+ASPforABA is the state-of-the-art system (as of 2023) for acceptance problems and finding extensions in ABA. It placed first in all ABA subtracks in both [ICCMA 2023](https://iccma2023.github.io/) and [ICCMA 2025](https://argumentationcompetition.org/2025/index.html) (the 5th and 6th International Competition on Computational Models of Argumentation).
 
 ### References
 
