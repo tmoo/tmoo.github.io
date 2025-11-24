@@ -4,7 +4,7 @@ title: "Scientific presentations"
 author_profile: true
 ---
 
-- *Invited talk* for **KR Early Career Award**: Computational Approaches to Reasoning in Structured Argumentation, at KR'25, Melbourne, Australia
+- *Invited talk* for **KR Early Career Award**: [Computational Approaches to Reasoning in Structured Argumentation](https://www.tuomolehtonen.com/files/kr25_early_career_award_slides.pdf), at KR'25, Melbourne, Australia
 - Reasoning in Assumption-Based Argumentation via SAT, at KR'25, Melbourne, Australia
 - SAT-Based Approaches to Reasoning in Choice Logics, at ECAI'24, Santiago de Compostela, Spain
 - On Computing Admissibility in ABA, at COMMA'24, Hagen, Germany
