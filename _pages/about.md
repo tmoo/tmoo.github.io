@@ -16,7 +16,7 @@ I defended my PhD thesis [_Computational Approaches to Reasoning in Structured A
 
 News
 ======
-- I received the *KR Early Career Award 2025*!
+- I received the **KR Early Career Award 2025**! [Slides available here](https://www.tuomolehtonen.com/files/kr25_early_career_award_slides.pdf)
 - KR 2025: [_Reasoning in Assumption-Based Argumentation via SAT_](https://proceedings.kr.org/2025/68/) with Andreas Niskanen, Masood Feyzbakhsh Rankooh and Matti Järvisalo
 - ECAI 2025: [_Optimal Counterfactual Explanations for Random Forests with MaxSAT_]() with Alesya Raevskaya
 - JAIR (2025): [_Argumentative reasoning in ASPIC+ under incomplete information_](https://www.jair.org/index.php/jair/article/view/18404) with Daphne Odekerken, Johannes P. Wallner and Matti Järvisalo
