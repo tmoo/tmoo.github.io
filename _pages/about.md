@@ -28,7 +28,7 @@ News
 
 Activities
 =====
-- PC member: NMR [2026](https://nmr.krportal.org/2026/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/), [IJCAI 2025](https://2025.ijcai.org/), [ECAI 2025](https://ecai2025.org/), [KR 2025](https://kr.org/KR2025/call_kr_in_the_wild.html) (in the Wild Track), NMR [2025](https://nmr.krportal.org/2025/), [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
+- PC member: NMR [2026](https://nmr.krportal.org/2026/), [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [IJCAI 2025](https://2025.ijcai.org/), [ECAI 2025](https://ecai2025.org/), [KR 2025](https://kr.org/KR2025/call_kr_in_the_wild.html) (in the Wild Track), NMR [2025](https://nmr.krportal.org/2025/), [KR 2024](https://kr.org/KR2024/) (in the Wild Track), [SAFA 2024](https://safa2024.argumentationcompetition.org/)
 - Reviewer: [JAIR](https://jair.org), [IJAR](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)
 - Co-organizer of the argumentation system competition [ICCMA 2023](https://iccma2023.github.io/)
 - Local organizer: [FoIKS 2022](https://foiks2022.github.io/)
