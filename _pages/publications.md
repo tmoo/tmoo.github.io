@@ -28,7 +28,7 @@ Reasoning in Assumption-Based Argumentation via SAT
 
 Optimal Counterfactual Explanations for Random Forests with MaxSAT
 : Alesya Raevskaya, Tuomo Lehtonen 
-: ECAI 2025
+: ECAI 2025 [LINK](https://ebooks.iospress.nl/volumearticle/75831)
 
 Complexity Results and Algorithms for Preferential Argumentative Reasoning in ASPIC+ 
 :   Daphne Odekerken, Tuomo Lehtonen, Johannes P. Wallner, Matti Järvisalo 
